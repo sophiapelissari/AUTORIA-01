@@ -1,4 +1,4 @@
-﻿int temp;
+﻿float temp;
 Console.WriteLine("Digite a temperatura do dia (em graus Celsius): ");
 float temperatura = float.Parse(Console.ReadLine());
 //lendo a temperatura dada 
